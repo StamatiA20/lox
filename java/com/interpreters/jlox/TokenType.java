@@ -1,3 +1,4 @@
+package com.interpreters.jlox;
 
 enum TokenType {
     // Single-character tokens.
